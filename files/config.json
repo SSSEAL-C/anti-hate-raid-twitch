@@ -1,0 +1,6 @@
+{
+	"twitch_channel": "Twitch",
+	"twitch_slurs_file": "./files/twitchslurs.json",
+	"twitch_username": "bot_username",
+	"twitch_password": "oauth:"
+}
